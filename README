@@ -1,0 +1,6 @@
+Kod Ÿród³owy oprogramowania na platformie SA-MP do projektu mySantos
+
+- korzysta z MySQL
+- posiada kilka b³êdów przy printowaniu do konsoli (server_log.txt zasypuje siê errorami)
+- rozwijany 30.11.2013 - 18.03.2014
+- pisany ca³kowicie od zera
